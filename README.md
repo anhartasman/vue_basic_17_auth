@@ -24,3 +24,9 @@ Mengature rule firebase
 ## 261. Adding an Authentication Page (Login & Signup)
 
 Menambah halaman login dan signup
+
+## 262. Preparing Vuex
+
+Menyiapkan vuex
+
+baca Firebase Auth REST API
