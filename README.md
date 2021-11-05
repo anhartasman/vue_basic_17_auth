@@ -1,24 +1,22 @@
 # vue_basic_17_auth
 
-## Project setup
-```
-npm install
-```
+## 260. Locking / Protecting Backend Resources
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Melindungi data backend
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Mengature rule firebase
 
-### Lints and fixes files
 ```
-npm run lint
+{
+  "rules": {
+    "coaches":{
+      ".read":true,
+        ".write":"auth != null"
+    },
+      "requests":{
+      ".read":"auth != null",
+        ".write":true
+      },
+  }
+}
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
