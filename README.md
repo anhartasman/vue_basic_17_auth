@@ -46,3 +46,7 @@ Membuat logic login
 ## 266. Attaching the Token to Outgoing Requests
 
 Menggunakan token untuk HTTP Request
+
+## 267. Updating the UI Based on Auth State
+
+Merubah UI berdasarkan status otentikasi
