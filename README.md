@@ -54,3 +54,7 @@ Merubah UI berdasarkan status otentikasi
 ## 268. Adding a "Logout" Action & Flow
 
 Menambah logic logout
+
+## 269. Authentication & Routing (incl. Navigation Guards)
+
+Menggunakan navigation guard
