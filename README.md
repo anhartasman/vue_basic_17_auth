@@ -34,3 +34,7 @@ baca Firebase Auth REST API
 ## 263. Adding a "Signup" Action & Flow
 
 Menambah flow signup
+
+## 264. Better UX: Loading Spinner & Error Handling
+
+Menampilkan loading dan penanganan error
