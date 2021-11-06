@@ -30,3 +30,7 @@ Menambah halaman login dan signup
 Menyiapkan vuex
 
 baca Firebase Auth REST API
+
+## 263. Adding a "Signup" Action & Flow
+
+Menambah flow signup
