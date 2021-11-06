@@ -42,3 +42,7 @@ Menampilkan loading dan penanganan error
 ## 265. Adding a "Login" Action & Flow
 
 Membuat logic login
+
+## 266. Attaching the Token to Outgoing Requests
+
+Menggunakan token untuk HTTP Request
