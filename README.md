@@ -50,3 +50,7 @@ Menggunakan token untuk HTTP Request
 ## 267. Updating the UI Based on Auth State
 
 Merubah UI berdasarkan status otentikasi
+
+## 268. Adding a "Logout" Action & Flow
+
+Menambah logic logout
