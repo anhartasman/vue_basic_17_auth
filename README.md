@@ -58,3 +58,7 @@ Menambah logic logout
 ## 269. Authentication & Routing (incl. Navigation Guards)
 
 Menggunakan navigation guard
+
+## 270. Adding "Auto Login"
+
+Menambah auto login
