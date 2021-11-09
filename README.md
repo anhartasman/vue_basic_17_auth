@@ -62,3 +62,7 @@ Menggunakan navigation guard
 ## 270. Adding "Auto Login"
 
 Menambah auto login
+
+## 271. Adding "Auto Logout"
+
+Menambah logout otomatis
